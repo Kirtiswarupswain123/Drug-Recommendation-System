@@ -93,4 +93,4 @@ if recommend_btn:
 
 # Footer for credits or additional information
 st.markdown("<hr>", unsafe_allow_html=True)
-st.markdown("<p style='text-align: center; color: #7f8c8d;'>Made by <span style='color: orange'>Srijan Arya</span> | <a href='https://github.com/Srijan-Arya/Drug-Recommendation-System' style='text-decoration:none'>Github</a> © 2024</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: #7f8c8d;'>Made by <span style='color: orange'>Kirti Swarup</span> | <a href='https://github.com/Srijan-Arya/Drug-Recommendation-System' style='text-decoration:none'>Github</a> © 2024</p>", unsafe_allow_html=True)
